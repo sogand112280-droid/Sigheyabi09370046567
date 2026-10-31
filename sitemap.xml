@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://YOUR-DOMAIN.example/</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/islamic-architecture-mosque.svg</image:loc>
+      <image:title>islamic architecture mosque</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/golden-islamic-lantern.svg</image:loc>
+      <image:title>golden islamic lantern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/islamic-geometric-pattern.svg</image:loc>
+      <image:title>islamic geometric pattern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/qom-guide-islamic-art.svg</image:loc>
+      <image:title>qom guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/mashhad-guide-islamic-art.svg</image:loc>
+      <image:title>mashhad guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/tehran-guide-islamic-art.svg</image:loc>
+      <image:title>tehran guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/isfahan-guide-islamic-art.svg</image:loc>
+      <image:title>isfahan guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/shiraz-guide-islamic-art.svg</image:loc>
+      <image:title>shiraz guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/tabriz-guide-islamic-art.svg</image:loc>
+      <image:title>tabriz guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/karaj-guide-islamic-art.svg</image:loc>
+      <image:title>karaj guide islamic art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/sigheh-halal-hezarat-mazhabi.png</image:loc>
+      <image:title>sigheh halal hezarat mazhabi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/qom.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/qom-guide-islamic-art.svg</image:loc>
+      <image:title>qom guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/mashhad.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/mashhad-guide-islamic-art.svg</image:loc>
+      <image:title>mashhad guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/tehran.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/tehran-guide-islamic-art.svg</image:loc>
+      <image:title>tehran guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/isfahan.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/isfahan-guide-islamic-art.svg</image:loc>
+      <image:title>isfahan guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/shiraz.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/shiraz-guide-islamic-art.svg</image:loc>
+      <image:title>shiraz guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/tabriz.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/tabriz-guide-islamic-art.svg</image:loc>
+      <image:title>tabriz guide islamic art</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN.example/cities/karaj.html</loc>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.example/images/karaj-guide-islamic-art.svg</image:loc>
+      <image:title>karaj guide islamic art</image:title>
+    </image:image>
+  </url>
+</urlset>
